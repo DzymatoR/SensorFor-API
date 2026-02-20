@@ -1,0 +1,7 @@
+[
+  {
+    "device_id": "00020131",
+    "alias": "Hlavní elektroměr",
+    "field_names": ["temperature", "humidity", "co2"]
+  }
+]
